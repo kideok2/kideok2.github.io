@@ -1,6 +1,6 @@
 ---
 title: "파일 생성 및 깃허브에 업로드 하는 방법"
-categories:git
+categories: git
 ---
 
 # Chapter 1. 실행
