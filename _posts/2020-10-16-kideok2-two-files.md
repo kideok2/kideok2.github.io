@@ -5,3 +5,6 @@ categories: dukki update
 ---
 
 <h1>안녕 내이름은 김기덕이야</h1>
+
+# javascrpit
+### Getter Setter
