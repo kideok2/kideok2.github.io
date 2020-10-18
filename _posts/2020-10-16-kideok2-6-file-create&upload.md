@@ -1,6 +1,6 @@
 ---
 title: "파일 생성 및 깃허브에 업로드 하는 방법"
-categories: git
+categories: git_
 ---
 
 # Chapter 1. 실행
@@ -26,7 +26,7 @@ categories: git
 2. 깃허브 들어가서 확인해보기
 
 ----
-[1](#foot_note1) : 단, 한글 이름으로 저장 시 파일 내용이 깨질 수 있음
-[2](#foot_note2) : 중간 중간에도 확인가능
-[3](#foot_note3) : 내 파일을 예. git add  _posts/파일 이름 
+[1](#foot_note1) : 단, 한글 이름으로 저장 시 파일 내용이 깨질 수 있음<br>
+[2](#foot_note2) : 중간 중간에도 확인가능<br>
+[3](#foot_note3) : 내 파일을 예. git add  _posts/파일 이름<br> 
 [4](#foot_note4) : m은 메세지를 뜻함 
