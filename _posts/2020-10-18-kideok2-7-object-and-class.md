@@ -45,4 +45,4 @@ categories: JAVA
 
 ---
 그냥 깨알 메모
-eclipse에 JAVA에서의 package - 소스 코드를 어떠한 계층 구조로 관리할 지 구성하는 것 - 속성의 묶음.
+eclipse에 JAVA에서의 package - 소스 코드를 어떠한 계층 구조로 관리할 지 구성하는 것 - 속성의 묶음
