@@ -3,7 +3,7 @@ title: "DI 란 무엇인가"
 categories: Spring DI
 ---
 
-# DI(Dependency Injection) 이란?
+## DI(Dependency Injection) 이란?
 
 
 
