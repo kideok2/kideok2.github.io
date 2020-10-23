@@ -25,8 +25,14 @@ categories: git_
 1. 추가적으로 git push 해주면 끝 
 2. 깃허브 들어가서 확인해보기
 
+# Chapter 4. 그래도 안될 시
+
+1. git fetch를 한다
+2. git pull를 한다
+3. git status로 상태 확인
+4. fetch pull 하는 이유는 다음 시간에 ( 일단 메모함 - 나중에 이유 찾아서 적어 놓을것)
 ----
 [1](#foot_note1) : 단, 한글 이름으로 저장 시 파일 내용이 깨질 수 있음<br>
 [2](#foot_note2) : 중간 중간에도 확인가능<br>
-[3](#foot_note3) : 내 파일을 예. git add  _posts/파일 이름<br> 
+[3](#foot_note3) : 내 파일을 예. git add  _posts/파일 이름<br>
 [4](#foot_note4) : m은 메세지를 뜻함 
