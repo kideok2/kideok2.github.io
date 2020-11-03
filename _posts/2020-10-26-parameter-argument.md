@@ -17,3 +17,11 @@ categories: parameter argument
 ![avvvvv](https://user-images.githubusercontent.com/31603702/97961683-1a483700-1df7-11eb-8cfd-fa21f667e3c4.PNG)
 
 함수를 호출할 때 전달하는 변수 aaa는 인자가 되고 전달되는 값을 받는 변수 param은 매개변수가 되는 것이다
+
+
+
+
+
+참조
+https://yangyag.tistory.com/24
+https://salix97.tistory.com/5
