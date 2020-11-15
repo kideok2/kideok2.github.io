@@ -15,4 +15,6 @@ __필드가 물체의 상태라면, 물체의 행동에 해당하는게 메소�
 - 메소드란 클래스가 가지고 있는 기능이다. 클래스 안에 선언됩니다.
 
 ---
-출처 - https://programmers.co.kr/learn/courses/5/lessons/230 설명 너무 깔끔하네요 ㅎ
+참조
+
+https://programmers.co.kr/learn/courses/5/lessons/230
